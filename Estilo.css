@@ -1,0 +1,35 @@
+.body{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.card-deck{
+    display: flex;
+}
+
+.card-img-top{
+   display: flex;
+   height: 13rem;
+   width: 11rem; 
+}
+ 
+.form-signin .checkbox {
+    font-weight: 400;
+  }
+  .form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  .button{
+    color: #fff;
+    background-color: #0062cc;
+    cursor: pointer;
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+  }
